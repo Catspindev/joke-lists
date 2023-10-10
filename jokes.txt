@@ -4,3 +4,28 @@
 {"type":"general","setup":"What's Forrest Gump's password?","punchline":"1Forrest1","id":3}
 {"type":"general","setup":"Do you know what the word 'was' was initially?","punchline":"Before was was was was was is.","id":37}
 {"type":"general","setup":"If you see a robbery at an Apple Store...","punchline":"Does that make you an iWitness?","id":42}
+{"type":"general","setup":"Why don't skeletons fight each other?","punchline":"They don't have the guts!","id":70}
+{"type":"general","setup":"Did you hear about the cheese factory that exploded in France?","punchline":"There was nothing left but de Brie!","id":71}
+{"type":"general","setup":"What did the grape say when it got stepped on?","punchline":"Nothing, it just let out a little wine!","id":72}
+{"type":"general","setup":"Why don't eggs tell jokes?","punchline":"Because they might crack up!","id":73}
+{"type":"general","setup":"What do you call a fish with no eyes?","punchline":"Fsh!","id":74}
+{"type":"general","setup":"Why did the scarecrow become a doctor?","punchline":"Because he was outstanding in his field!","id":75}
+{"type":"general","setup":"I'm reading a book about anti-gravity...","punchline":"It's impossible to put down!","id":76}
+{"type":"general","setup":"Why don't skeletons fight each other?","punchline":"They don't have the guts!","id":77}
+{"type":"general","setup":"Why don't scientists trust atoms?","punchline":"Because they make up everything!","id":78}
+{"type":"general","setup":"What do you call a snowman with a six-pack?","punchline":"An abdominal snowman!","id":79}
+{"type":"general","setup":"What did one wall say to the other wall?","punchline":"I'll meet you at the corner!","id":80}
+{"type":"general","setup":"What kind of shoes do all spies wear?","punchline":"Sneakers!","id":81}
+{"type":"general","setup":"Why did the bicycle fall over?","punchline":"It was two-tired!","id":82}
+{"type":"general","setup":"What do you call a bear with no teeth?","punchline":"A gummy bear!","id":83}
+{"type":"general","setup":"Did you hear the rumor about butter?","punchline":"Well, I'm not going to spread it!","id":84}
+{"type":"general","setup":"What did one plate say to the other plate?","punchline":"Dinner is on me!","id":85}
+{"type":"general","setup":"What do you call a donkey with three legs?","punchline":"A wonkey!","id":86}
+{"type":"general","setup":"Why did the tomato turn red?","punchline":"Because it saw the salad dressing!","id":87}
+{"type":"general","setup":"Why don't skeletons fight each other?","punchline":"They don't have the guts!","id":88}
+{"type":"general","setup":"Why did the cookie go to the doctor?","punchline":"Because it was feeling crumby!","id":89}
+{"type":"general","setup":"What's heavy forward but not backward?","punchline":"Ton!","id":90}
+{"type":"general","setup":"What did one elevator say to the other elevator?","punchline":"I think I'm coming down with!","id something":91}
+{"type":"general","setup":"What's orange and sounds like a parrot?","punchline":"A carrot!","id":92}
+{"type":"general","setup":"How does a penguin build its house?","punchline":"Igloos it together!","id":93}
+{"type":"general","setup":"I'm reading a book about anti-gravity...","punchline":"It's impossible to put down!","id":94}
